@@ -116,8 +116,3 @@ Real-time ticket lifecycle management
 
 Automated SLA breach detection
 
-
-👨‍💻 Demo Credentials
-Mail ID : admin@mail.com
-Password : admin123
-
