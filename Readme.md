@@ -87,7 +87,7 @@ Open the app at 👉 http://localhost:5173
 ✅ Demo Flow
 
 Register a new user from the frontend.
-
+a
 Login to access your dashboard.
 
 Create a new ticket with title, description, and priority.
