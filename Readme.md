@@ -1,3 +1,7 @@
+## Live demo
+https://help-desk-frontend-livid.vercel.app
+
+
 # 🧰 HelpDesk Management System
 
 A full-stack **Helpdesk Ticket Management System** built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
@@ -112,7 +116,3 @@ Real-time ticket lifecycle management
 
 Automated SLA breach detection
 
-
-👨‍💻 Demo Credentials
-Mail ID : admin@mail.com
-Password : admin123
